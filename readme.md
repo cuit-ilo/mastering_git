@@ -1,3 +1,3 @@
 ## Welcome to git
 
-- this is coming from dev-triumph
+- this is coming from dev-triumph.
