@@ -1,4 +1,4 @@
-## Welcome to git!
+## heyoo everyone, welcome to my git guide
 
-- This is coming from dev-triumph
-'feature branch'
+- Yo, johnny here!
+- i'm adding this from 'feature branch'
